@@ -31,7 +31,7 @@ name = 'Alex';
 // console.log(result) // area of visibility variables (error)
 
 
-// RULES FOR NAMING OF VARIABLES //
+// RULES FOR NAMING OF VARIABLES V2//
 
 
 
