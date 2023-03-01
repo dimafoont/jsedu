@@ -36,5 +36,5 @@ name = 'Alex';
 // camelCase
 // snake_case
 // UPPER_SNAKE_CASE (for const) or _otherConst
-// PascalCase (for classess)
+// PascalCase (for classes)
 
