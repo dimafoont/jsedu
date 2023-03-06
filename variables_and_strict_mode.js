@@ -32,7 +32,6 @@ name = 'Alex';
 
 
 // RULES FOR NAMING OF VARIABLES V2//
-
 // camelCase
 // snake_case
 // UPPER_SNAKE_CASE (for const) or _otherConst
