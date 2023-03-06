@@ -31,7 +31,7 @@ name = 'Alex';
 // console.log(result) // area of visibility variables (error)
 
 
-// RULES FOR NAMING OF VARIABLES V2//
+// RULES FOR NAMING OF VARIABLES V2 //
 // camelCase
 // snake_case
 // UPPER_SNAKE_CASE (for const) or _otherConst
